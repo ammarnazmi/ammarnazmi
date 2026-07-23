@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**ammarnazmi/ammarnazmi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm passionate about Software Development, DevOps and SRE and love collaborating with others.
+
+---
+
+## 🔧 Technologies & Tools
+
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=php,laravel,spring,vue,js,flutter,react,nodejs,git,docker,aws,postgres,linux,kubernetes,nginx,grafana,prometheus,terraform,elasticsearch,mongodb,mysql,postgres,ts" />
+</a>
+
+---
+
+## 🌱 Current Projects
+
+* **Unofficial Whatsapp API** - A simple restful API built with Laravel Inertia (VueJs) and Nodejs
+* **Digital Loyalty Kad** - built with Laravel Inertia (ReactJs) with typescript.
+
+---
+
+## 📬 How to Reach Me
+
+[![Email](https://img.shields.io/badge/Email-nadzirulmubin%40hotmail.com-3b82f6?style=flat-square&logo=gmail&logoColor=white)](mailto:nadzirulmubin@hotmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-nadzirulmubin-0077b5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/nadzirulmubin)
