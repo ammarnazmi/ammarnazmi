@@ -11,7 +11,7 @@ I'm passionate about Software Development, expertise in Laravel.
 ## 🔧 Technologies & Tools
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=php,laravel,vue,js,react,nodejs,git,docker,postgres,linux,nginx,mongodb,mysql,postgres,ts" />
+  <img src="https://skillicons.dev/icons?i=php,laravel,vue,js,react,nodejs,git,docker,postgres,linux,nginx,mongodb,mysql" />
 </a>
 
 ---
