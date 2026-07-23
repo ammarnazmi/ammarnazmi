@@ -4,14 +4,14 @@
 
 ## About Me
 
-I'm passionate about Software Development, DevOps and SRE and love collaborating with others.
+I'm passionate about Software Development, expertise in Laravel.
 
 ---
 
 ## 🔧 Technologies & Tools
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=php,laravel,spring,vue,js,flutter,react,nodejs,git,docker,aws,postgres,linux,kubernetes,nginx,grafana,prometheus,terraform,elasticsearch,mongodb,mysql,postgres,ts" />
+  <img src="https://skillicons.dev/icons?i=php,laravel,vue,js,react,nodejs,git,docker,postgres,linux,nginx,mongodb,mysql,postgres,ts" />
 </a>
 
 ---
